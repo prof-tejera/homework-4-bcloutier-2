@@ -1,6 +1,7 @@
 import Calculator from "./components/Calculator";
 
 function App() {
+  console.log('hi');
   return (
     <div
       style={{
